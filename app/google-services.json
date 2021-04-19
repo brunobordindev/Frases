@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961886125977",
+    "project_id": "frasesnerd-1e379",
+    "storage_bucket": "frasesnerd-1e379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961886125977:android:d0c75feed1025522249d08",
+        "android_client_info": {
+          "package_name": "com.br.frases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961886125977-hsk8g8teoo7v82d2p1ee13aqikh6okrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.frases",
+            "certificate_hash": "e0658d8adf6da4eb251147b6d6d479c1c4135bbe"
+          }
+        },
+        {
+          "client_id": "961886125977-qikove9ivs4elk6nt5gn9f0efhuo44g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8HF09ohcx4CS5Ujb0Jbbmnv2MqAV6BSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961886125977-qikove9ivs4elk6nt5gn9f0efhuo44g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
